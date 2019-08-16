@@ -1,5 +1,5 @@
 {
-  "main": "package/react-native-version-check/index.js",
+  "main": "packages/react-native-version-check/index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
