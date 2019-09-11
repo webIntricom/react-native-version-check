@@ -1,6 +1,6 @@
 {
   "name": "react-native-version-check",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "description": "A version checker for react-native applications",
   "main": "index.js",
   "keywords": [
@@ -38,5 +38,12 @@
   },
   "peerDependencies": {
     "react-native": ">=0.48.0"
-  }
+  },
+  "files": [
+    "android",
+    "ios",
+    "lib",
+    "index.d.ts",
+    "react-native-version-check.podspec"
+  ]
 }
